@@ -1,4 +1,4 @@
-a clone of https://www.igeodda.com/career
+a clone of https://www.igeodda.com
 
 **Instructions
 -download code
